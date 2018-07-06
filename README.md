@@ -30,7 +30,7 @@ Assuming you have `ssh` and `root` access to your VPS, you should first login to
 
 # copy this repository
 > cd /var/www
-> git clone https://git.github.com/goFrendiAsgard/webrtc
+> git clone https://git.github.com/aristonginting/webrtc
 
 # install and start pm2
 > npm install -g pm2
